@@ -22,7 +22,7 @@ html, body {
   width: 800px;
   margin-left: 200px;
   position: absolute;
-  bottom: 0px;
+  bottom: -20px;
 }
 
   .main-nav a {
